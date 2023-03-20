@@ -16,14 +16,14 @@ Professor Sadaf Mustafiz M.Sc. Ph.D.
 
 John-Clyde Rempillo B.Sc.
 ## Main Github Webpage
-[Click here](https://clyderemp.github.io/iot-statechart-template-webpage/index.html)
+[Click here to visit the main webpage](https://clyderemp.github.io/iot-statechart-template-webpage/index.html)
 
 ## Installation
 
 1. You must install Itemis Create from this [LINK](https://www.itemis.com/en/products/itemis-create/)
 2. You can now clone the repo from the github page
 ```bash
-git 'your-directory'
+cd 'your-directory'
 git init 
 git commit -m 'Cloning iot-statechart-template'
 git clone https://github.com/mde-tmu/iot-sc-template-library.git
